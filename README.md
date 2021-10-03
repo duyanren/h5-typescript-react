@@ -1,2 +1,2 @@
 # h5-typescipt-react
-基于webpack5的react typescript项目搭建
+Creating a React app with TypeScript and ESLint with Webpack 5
